@@ -1,5 +1,5 @@
-.body {
-    background-color: rgb(0, 0, 0);
+.bg-red {
+    background-color: rgb(26, 37, 102);
 }
 
 .img-header {
@@ -10,10 +10,37 @@
     min-height: 10rem;
 }
 
+.img-header2 {
+    background-image: url(/assets/img/mictlan.jpg);
+    background-position: center center;
+    background-size: cover;
+    padding-top: -25px;
+    height: 75vh;
+    min-height: 25rem;
+}
+
+.img-header3 {
+    background-image: url(/assets/img/mictlantecutli.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+    min-height: 10rem;
+}
+
 .text-big {
     font-size: 75px;
 }
 
+.text-med {
+    font-size: 50px;
+}
+
 .bg-orange {
     background-color: orange;
+}
+
+.img-card-x {
+    width: 18rem;
+    float: left;
+    margin: 15px;
 }
