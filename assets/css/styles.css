@@ -2,6 +2,17 @@
     background-color: rgb(26, 37, 102);
 }
 
+
+/*--------- utilidades */
+
+.margen {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+
+/*----------------------*/
+
 .img-header {
     background-image: url(/assets/img/wallpaper.png);
     background-position: center center;
