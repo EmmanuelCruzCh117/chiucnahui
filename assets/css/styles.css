@@ -1,3 +1,19 @@
-body {
-    background-color: rgb(17, 16, 16);
+.body {
+    background-color: rgb(0, 0, 0);
+}
+
+.img-header {
+    background-image: url(/assets/img/wallpaper.png);
+    background-position: center center;
+    background-size: cover;
+    height: 60vh;
+    min-height: 10rem;
+}
+
+.text-big {
+    font-size: 75px;
+}
+
+.bg-orange {
+    background-color: orange;
 }
